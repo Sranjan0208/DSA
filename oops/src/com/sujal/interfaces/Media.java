@@ -1,0 +1,6 @@
+package com.sujal.interfaces;
+
+public interface Media {
+    void start();
+    void stop();
+}
